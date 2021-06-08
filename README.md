@@ -1,0 +1,37 @@
+# Heart-Sender-V1.2
+- HeartSenderV1.2 : Features : 
+- Letter Encrypter Unicode [ UPDATE ]
+- Letter Encrypter ZeroFont [ UPDATE ]
+- Source Letter Encrypter Base64 [ UPDATE ]
+- Source Letter Encrypter Quarted Printed [ UPDATE ]
+- Subject Encrypter PunnyCode [ UPDATE ]
+- Subject Encrypter Base64 [ UPDATE ]
+- Images Encrypter Unicode [ UPDATE ]
+- Images Encrypter Punnycode [ UPDATE ]
+- Url Encrypter Unicode [ UPDATE ]
+- Url Encrypter UrlEncode [ UPDATE ]
+- Multi Thread 
+- Get Username Email
+- Get Domain Email
+- Support FUD
+- Supoprt Auto PunnyCode
+- Multi SMTP Sender
+- Random Country Tag
+- Random Country Capital Tag
+- Random Fake Email Tag
+- Random Apple Phone Tag
+- Random Apple Apps Tag
+- Random MacBook Tag
+- Random Android Version Tag
+- Random Android Browsers Tag
+- Random Windows Version Tag
+- Random Windows Browsers Tag
+- Random IP
+- Random UserAgent Tag
+- Random From Mail
+- Random From Name
+- Random Subject
+- Random File Name Attachment
+- Random Encoding and Charset
+- Support Emoji In Subject and Sender Name
+- Support Attachment (JPG, PNG, ICO, PDF, DOCS and Other File.
